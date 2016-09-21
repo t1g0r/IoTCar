@@ -1,0 +1,3 @@
+[submodule "docs/example/ipcam"]
+	path = docs/example/ipcam
+	url = ../../briks/ipcam.git
